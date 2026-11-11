@@ -6,6 +6,17 @@ Además de la traducción, el parche **corrige dos fallos que hacen imposible te
 
 Aquí **no hay ninguna ROM**: ni la original ni la traducida. Solo un parche IPS que aplicas a tu propia copia.
 
+## Capturas
+
+Versión traducida (v1.0) en openMSX, con un Sony HB-20P (MSX europeo).
+
+| | |
+|---|---|
+| ![Pantalla de título](capturas/01_titulo.png) | ![Pasillo de la planta baja, con la barra de estado en castellano](capturas/02_pasillo.png) |
+| Pantalla de título | Pasillo de la planta baja y barra de estado |
+| ![Puerta de la sala 2](capturas/03_puerta.png) | ![Dentro de la sala 2, cogiendo la llave](capturas/04_llave.png) |
+| Ante la puerta de la sala 2 | `COGER LLAVE` en la sala 2 |
+
 ## La ROM necesaria
 
 El parche se aplica a esta ROM japonesa de 32 KB (sin mapeador):

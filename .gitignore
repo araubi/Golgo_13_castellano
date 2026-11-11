@@ -4,3 +4,4 @@
 *.png
 __pycache__/
 walk_rec.json
+!capturas/*.png
